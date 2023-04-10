@@ -2,9 +2,9 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 
-cudatoolkit=10.1
-cudnn=7.6
-tensorflow=2.1.0
+cudatoolkit==10.1
+cudnn==7.6
+tensorflow==2.1.0
 matplotlib>=3.3.1
 numpy>=1.19.1
 flask>=1.1.2
